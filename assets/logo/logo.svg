@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 420 120" width="420" height="120">
+  <rect x="4" y="4" width="112" height="112" fill="none" stroke="#D7FF35" stroke-width="4"/>
+  <text x="60" y="78" font-family="Arial, sans-serif" font-weight="bold" font-size="46"
+        text-anchor="middle" fill="#D7FF35">C<tspan font-size="24" dy="-4">&amp;</tspan><tspan font-size="46" dy="6">G</tspan></text>
+  <text x="140" y="62" font-family="Arial, sans-serif" font-weight="bold" font-size="40"
+        fill="#FFFFFF">CUTS &amp; GUTS</text>
+  <text x="142" y="92" font-family="Arial, sans-serif" font-weight="bold" font-size="18"
+        letter-spacing="6" fill="#A1A1A1">FITNESS GYM</text>
+</svg>
